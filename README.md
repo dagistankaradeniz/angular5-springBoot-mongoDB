@@ -30,6 +30,10 @@ CRUD example using Angular5, Spring Boot and MongoDB (project is a sample from j
 ```shell
 npm install
 ```
+4. Finally run below code inside folder
+```shell
+ng serve --open
+```
 > You have to be preinstalled **nodeJS** and **npm** to run this project.
 
 > After project is successfully run navigate http://localhost:4200
