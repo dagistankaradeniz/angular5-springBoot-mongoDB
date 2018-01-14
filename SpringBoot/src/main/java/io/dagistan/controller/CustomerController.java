@@ -23,6 +23,7 @@ import io.dagistan.repository.CustomerMongoRepository;
 @RestController
 @RequestMapping("/api")
 @CrossOrigin(origins = "http://localhost:4200") // for details: https://enable-cors.org/
+// https://spring.io/blog/2015/06/08/cors-support-in-spring-framework
 public class CustomerController {
 
 	@Autowired
